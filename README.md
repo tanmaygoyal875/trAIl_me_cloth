@@ -22,3 +22,8 @@ Color Coherence and Style: Emphasize color coherence and style coordination thro
 
 # Conclusion:
 The integration of horoscope-driven insights, API-based cloth shopping agency collaboration, and machine learning-enabled color coherence presents an innovative solution to elevate the clothing selection process. This amalgamation not only provides personalized recommendations but also enhances the user's shopping experience by emphasizing color harmony and style coherence.
+
+Also now horoscope is not added but raw is made where it will take the links from the SHOPPING websites using flask and send that to the model now only function is defined
+
+# References
+Model: https://github.com/FCARRILLOM/ClassifyingColorMatchingOutfits/blob/main/ColorMeMedium.ipynb
